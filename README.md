@@ -1,75 +1,9 @@
-# Nuxt Minimal Starter
+![calculator](https://media.discordapp.net/attachments/1326895062092742677/1363813518385872956/image.png?ex=680765d1&is=68061451&hm=4c8fb49f27ed2b6afff47a1906e77a6582c4791155e0a8180ead043dfb5b2eee&=&format=webp&quality=lossless&width=615&height=776)
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### run app on local
 
-## Setup
+`npm run dev`
 
-Make sure to install dependencies:
+### run build
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+`npm run build`
